@@ -1,0 +1,18 @@
+{
+   "datosProducto": {
+    "producto1": "Black T-Shirt",
+    "producto2": "White Pants",
+    "precioProducto1" : 15,
+    "precioProducto2" : 20
+
+   },
+    
+    "datosLogin": {
+        
+        "usuario": "pushingit",
+        "contraseña": "123456!"
+
+    }
+
+
+}
